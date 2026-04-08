@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Frontend Developer**
 
-- 👨‍💻 All of my projects are available at [http://my-portfolio-git-main-aakansh-dixits-projects.vercel.app](http://my-portfolio-git-main-aakansh-dixits-projects.vercel.app)
+- 👨‍💻 All of my projects are available at (https://aakanshdixit.netlify.app/)
 
 - 📫 How to reach me **aakanshdixit@gmail.com**
 
