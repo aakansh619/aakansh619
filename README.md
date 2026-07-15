@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Machine Learning, Frontend Development**
 
 - 👨‍💻 All of my projects are available at  
-**https://aakanshdixit.netlify.app/**
+https://aakanshdixitt.netlify.app/
 
 - 📫 Reach me at  
 **aakanshdixit@gmail.com**
